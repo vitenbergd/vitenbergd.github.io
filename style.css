@@ -25,6 +25,7 @@ strong {
 
 a {
   color: #e81c4f;
+  display: inline;
 }
 
 header {
