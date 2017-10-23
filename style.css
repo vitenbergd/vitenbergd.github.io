@@ -26,6 +26,7 @@ strong {
 a {
   color: #e81c4f;
   display: inline-block;
+  padding: 4px;
 }
 
 header {
