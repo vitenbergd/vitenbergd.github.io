@@ -28,7 +28,7 @@ a {
 }
 
 main {
-  margin: 0;
+  margin: 0 auto;
   padding: 4em 1em;
   line-height: 1.5;
   max-width: 50em;
