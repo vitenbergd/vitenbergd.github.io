@@ -1,4 +1,5 @@
-img {
-    width: 300px;
-    margin: 0 auto;
+img {     
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
